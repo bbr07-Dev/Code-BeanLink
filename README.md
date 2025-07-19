@@ -55,7 +55,7 @@ Puedes acceder a la aplicación con los siguientes datos para probar las funcion
   - **Contraseña:** `12345678Aa_`
 
 
-Ideal para cerrar profesionalmente. Ejemplo:
+
 
 ```markdown
 # 👩‍💻 Bárbara Blanco Rodríguez
