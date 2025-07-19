@@ -57,7 +57,6 @@ Puedes acceder a la aplicación con los siguientes datos para probar las funcion
 
 
 
-```markdown
 # 👩‍💻 Bárbara Blanco Rodríguez
 
 Desarrollado por Bárbara Blanco Rodríguez  
