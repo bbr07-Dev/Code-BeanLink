@@ -39,10 +39,33 @@ BeanLink surge de la pasión por el café de especialidad y la necesidad de una 
     
 # 📋 Endpoints de la API REST
 
-[EndPoints]([Enlace PostMan](https://documenter.getpostman.com/view/39134500/2sB2j6AAju))
+Puedes consultar la colección de Postman aquí:  
+👉 [Ver documentación en Postman](https://documenter.getpostman.com/view/39134500/2sB2j6AAju)
 
 # 🔗 Demo
 
 Puedes probar la aplicación en: [beanlink.es](https://beanlink.es)
+
+## 🧪 Usuarios de prueba
+
+Puedes acceder a la aplicación con los siguientes datos para probar las funcionalidades según el rol:
+
+- 🏪 **Cafetería 01**  
+  - **Usuario:** `Cafetería 01`  
+  - **Contraseña:** `12345678Aa_`
+
+
+Ideal para cerrar profesionalmente. Ejemplo:
+
+```markdown
+# 👩‍💻 Bárbara Blanco Rodríguez
+
+Desarrollado por Bárbara Blanco Rodríguez  
+[LinkedIn](www.linkedin.com/in/bárbara-blanco-rodríguez-1a6719195) | [GitHub](https://github.com/bbr07-Dev)
+
+# 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT.
+
 
 
