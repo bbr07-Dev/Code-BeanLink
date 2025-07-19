@@ -1,0 +1,30 @@
+body {
+  background-color: gray;
+}
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #d97706 !important; /* ¡Forzamos el color! */
+  background-color: white !important;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #d97706 !important; /* Ámbar */
+  border-color: #d97706 !important;
+}
+
+input[type="checkbox"]:checked::after {
+  content: "X";
+  display: block;
+  color: white; /* ¡Forzamos el color del check! */
+  font-size: 14px;
+  text-align: center;
+  line-height: 18px;
+}
