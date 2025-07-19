@@ -60,7 +60,7 @@ Puedes acceder a la aplicación con los siguientes datos para probar las funcion
 # 👩‍💻 Bárbara Blanco Rodríguez
 
 Desarrollado por Bárbara Blanco Rodríguez  
-[LinkedIn](www.linkedin.com/in/bárbara-blanco-rodríguez-1a6719195) | [GitHub](https://github.com/bbr07-Dev)
+[LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-blanco-rodr%C3%ADguez-1a6719195/) | [GitHub](https://github.com/bbr07-Dev)
 
 # 📄 Licencia
 
